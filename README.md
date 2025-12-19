@@ -1,6 +1,5 @@
-# Technical Walk-through: Trajectory Optimization to Comet 29P
-
-This technical walk-through documents the trajectory optimization for an interplanetary rendezvous mission to Comet 29P (Schwassmann-Wachmann 1). As an aerospace engineer, I designed this mission to explore the limits of high-efficiency Nuclear Electric Propulsion (NEP) and to demonstrate how a constant, low-thrust engine can navigate the vast distances of the outer solar system.
+<h2>Description</h2>
+This project entails optimizing a trajectory for an interplanetary rendezvous mission to Comet 29P (Schwassmann-Wachmann 1). I designed this mission to explore the limits of high-efficiency Nuclear Electric Propulsion (NEP) and to demonstrate how a constant, low-thrust engine can navigate the vast distances of the outer solar system.
 
 ## 1. Project Overview & Motivation
 
@@ -72,7 +71,7 @@ The solver converged on an optimal trajectory with a 3.83-year flight time.
 
 ## 5. Conceptual Sample Return Architecture
 
-As a bonus, I developed a conceptual architecture for a Sample Return Mission. This expands the problem into a multi-phase optimization:
+I additionally developed a conceptual architecture for a Sample Return Mission. This expands the problem into a multi-phase optimization:
 <br />
 
 * **Outbound Leg:** Earth to Comet rendezvous.
