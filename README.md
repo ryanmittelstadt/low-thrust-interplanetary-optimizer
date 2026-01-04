@@ -3,7 +3,7 @@ This project entails optimizing a trajectory for an interplanetary rendezvous mi
 
 ## 1. Project Overview & Motivation
 
-Interplanetary missions typically rely on impulsive burns from chemical rockets. However, missions to targets like Comet 29P (at 5.79 AU) require enormous energy changes. I chose this project to investigate the Indirect Method of trajectory optimization, which allows for a high-precision solution by treating the flight path as a mathematical "minimum-time" problem.
+Interplanetary missions typically rely on impulsive burns from chemical rockets. However, missions to targets like Comet 29P (at 5.79 AU) require enormous energy changes. I chose this project to investigate the Indirect Method of trajectory optimization, which allows for a high-precision solution by treating the flight path as a mathematical minimization problem.
 <br />
 
 * **The Mission:** Launch from Earth on December 4, 2032.
