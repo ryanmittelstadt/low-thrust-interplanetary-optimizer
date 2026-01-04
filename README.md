@@ -48,25 +48,25 @@ The solver converged on an optimal trajectory with a 3.83-year flight time.
 <p align="center">
   <img src="https://i.imgur.com/nqTby0X.png" height="80%" width="80%" alt="Mission Characteristics and Convergence Errors"/>
   <br />
-  <i>Figure 4-1: Detailed Mission Characteristics and Convergence Errors</i>
+  <i>Figure 1: Detailed Mission Characteristics and Convergence Errors</i>
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/DUUlzht.png" height="80%" width="80%" alt="Engines Only Heliocentric Trajectory"/>
   <br />
-  <i>Figure 4-2: Option 1: Engines Only Heliocentric Trajectory</i>
+  <i>Figure 2: Option 1: Engines Only Heliocentric Trajectory</i>
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/cxQNFEG.png" height="80%" width="80%" alt="Engines and SRP Mission Characteristics"/>
   <br />
-  <i>Figure 4-3: Option 2: Engines + SRP Mission Characteristics</i>
+  <i>Figure 3: Option 2: Engines + SRP Mission Characteristics</i>
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/k9VagNo.png" height="80%" width="80%" alt="Engines and SRP Heliocentric Trajectory"/>
   <br />
-  <i>Figure 4-4: Option 2: Engines + SRP Heliocentric Trajectory</i>
+  <i>Figure 4: Option 2: Engines + SRP Heliocentric Trajectory</i>
 </p>
 
 ## 5. Conceptual Sample Return Architecture
